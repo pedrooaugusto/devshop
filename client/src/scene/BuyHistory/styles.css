@@ -1,0 +1,34 @@
+@media only screen and (max-width: 600px){
+	.expand-panel{
+		width: auto;
+		height: auto;
+	}
+	.firstProject{
+		margin-top: 75px !important;
+	}
+	.toolbar-text-field{
+		flex: 1;
+	}
+	.toolbar-back-btn{
+		color: white;
+	}
+}
+
+@media only screen and (min-width: 601px){
+	.expand-panel{
+		width: 500px;
+		height: auto;
+	}
+	.firstProject{
+		margin-top: 100px !important;
+	}
+	.toolbar-label{
+		flex: 0.3;
+	}
+	.toolbar-text-field{
+		flex: 0.4;
+	}
+	.toolbar-back-btn{
+		color: white;
+	}
+}

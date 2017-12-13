@@ -3,10 +3,10 @@
 Github developers for sale!<br/>
 Contrate os melhores desenvolvedores de qualquer organização do github pra trabalhar em seu projeto.
 
-## LIVE
+## Live
 https://githubdevshop.herokuapp.com
 
-## FEATURES
+## Features
 
 * (:heavy_check_mark:) - Carregar desenvolvedores de uma organização
 * (:heavy_check_mark:) - Calcular preço para cada dev com base em stars, followers e quantidade de repos

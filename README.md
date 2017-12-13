@@ -21,7 +21,7 @@ https://githubdevshop.herokuapp.com
 
 ## Built With
 
-* [MONGO] - Database
+* [Mongo] - Database
 * [Express] - Server
 * [React + Material UI] - Front End Frameworks*ish*
 * [Node] - Server side language
